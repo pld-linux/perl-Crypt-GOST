@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Crypt
-%define		pnam	GOST
+%define	pdir	Crypt
+%define	pnam	GOST
 Summary:	Crypt::GOST Perl module - the GOST encryption algorithm
 Summary(pl):	Modu³ Perla Crypt::GOST - algorytm kodowania GOST
 Name:		perl-Crypt-GOST
