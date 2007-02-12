@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	GOST
 Summary:	Crypt::GOST Perl module - the GOST encryption algorithm
-Summary(pl):	Modu≥ Perla Crypt::GOST - algorytm kodowania GOST
+Summary(pl.UTF-8):   Modu≈Ç Perla Crypt::GOST - algorytm kodowania GOST
 Name:		perl-Crypt-GOST
 Version:	1.00
 Release:	3
@@ -24,11 +24,11 @@ interface. GOST 28147-89 is a 64-bit symmetric block cipher with a
 256-bit key developed in the former Soviet Union. Some information on
 it is available at http://vipul.net/gost/.
 
-%description -l pl
-Ten modu≥ jest implementacj± kodowania GOST. Obs≥uguje interfejs
+%description -l pl.UTF-8
+Ten modu≈Ç jest implementacjƒÖ kodowania GOST. Obs≈Çuguje interfejs
 Crypt::CBC. GOST 28147-89 jest 64-bitowym symetrycznym szyfrem
-blokowym z 256-bitowym kluczem. Zosta≥ opracowany w by≥ym Zwi±zku
-Radzieckim. WiÍcej informacji na stronie http://vipul.net/gost/.
+blokowym z 256-bitowym kluczem. Zosta≈Ç opracowany w by≈Çym ZwiƒÖzku
+Radzieckim. Wiƒôcej informacji na stronie http://vipul.net/gost/.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
