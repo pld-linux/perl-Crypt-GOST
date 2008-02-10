@@ -9,7 +9,7 @@ Summary:	Crypt::GOST Perl module - the GOST encryption algorithm
 Summary(pl.UTF-8):	Moduł Perla Crypt::GOST - algorytm kodowania GOST
 Name:		perl-Crypt-GOST
 Version:	1.00
-Release:	3
+Release:	4
 License:	Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
