@@ -57,6 +57,5 @@ rm -rf $RPM_BUILD_ROOT
 %doc Changes README
 %{perl_vendorarch}/Crypt/GOST.pm
 %dir %{perl_vendorarch}/auto/Crypt/GOST
-%{perl_vendorarch}/auto/Crypt/GOST/*.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Crypt/GOST/*.so
 %{_mandir}/man3/*
